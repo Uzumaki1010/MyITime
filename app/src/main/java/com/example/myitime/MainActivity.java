@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        floatingActionButtonAddNew=(FloatingActionButton)findViewById(R.id.floating_action_addnew_button);
+        floatingActionButtonAddNew=(FloatingActionButton)findViewById(R.id.floating_action_button_add_new);
     }
 }
